@@ -6,7 +6,7 @@ Please run the code along with the fapi.html
 Please install the fastapi,uvicorn before execution, along with the Prerequisite mentioned.
 Installation code:pip install fastapi,uvicorn
 
-To run this code on terminal : app:arimaapi--reload
+To run this code on terminal : app:arima-api--reload
 
 
 **fapi.html**
