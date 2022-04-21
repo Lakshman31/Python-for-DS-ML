@@ -28,5 +28,5 @@ Please install the **Prerequisites** :
   Pandas (https://pandas.pydata.org)
   Matplotlib (https://matplotlib.org)
 
-**Source for CSVThe codes are written in pycharm environment (https://www.jetbrains.com/pycharm/download).
-source for the CSv is https://www.sutra-india.in.
+**The codes are written in pycharm environment (https://www.jetbrains.com/pycharm/download).
+source for the CSV is https://www.sutra-india.in.
