@@ -1,7 +1,8 @@
 # Python-for-DS-ML
-**arimaapi.py**
+**arima-api.py**
 ARIMA based prediction for the timeseries data.
-Acheived 95% Accuracy
+Acheived 95% Accuracy.
+This program uses FastAPI to serve the data in json format.
 Please run the code along with the fapi.html
 Please install the fastapi,uvicorn before execution, along with the Prerequisite mentioned.
 Installation code:pip install fastapi,uvicorn
