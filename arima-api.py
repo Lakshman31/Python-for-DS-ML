@@ -40,7 +40,7 @@ def arima_api():
 #FastApi
 app = FastAPI()
 templates = Jinja2Templates(directory="htmldir")
-data_original = pd.read_csv('C:/Users/laksh/Downloads/covidcases.csv')
+data_original = pd.read_csv('covidcases.csv')
 data = data_original.dropna()
 print(data.isnull().sum())
 
