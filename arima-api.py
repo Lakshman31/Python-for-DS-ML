@@ -9,7 +9,6 @@ from fastapi.responses import HTMLResponse
 from pmdarima import auto_arima
 import warnings
 from statsmodels.tsa.arima.model import ARIMA
-import lineregress
 
 
 def arima_api():
